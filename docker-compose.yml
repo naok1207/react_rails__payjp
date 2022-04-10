@@ -42,7 +42,6 @@ services:
     depends_on:
         - web
 volumes:
-  postgres:
   bundle:
   node_modules:
   packs:
