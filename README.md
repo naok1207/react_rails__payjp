@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*zenn memo*
+https://zenn.dev/naok_1207/scraps/6c315ed51b7a52
 
-Things you may want to cover:
+## ブランチ説明
+#### env/docker/01_before_new
+rails new 前
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### env/docker/02_after_new
+rails new 後
